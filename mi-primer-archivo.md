@@ -1,0 +1,11 @@
+10 Personalidades destacadas de la ciencia.
+-Margaret hamilton.
+-Albert einstein.
+-Gordon moore.
+-Ada Byron.
+-Alan Turing.
+-Charles Babage.
+-Richard Stallman.
+-Linus torvalds.
+-Dmitri Mendeleyev.
+-Nikola Tesla.
